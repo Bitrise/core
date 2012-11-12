@@ -148,6 +148,10 @@
     <classEntry path="bitrise.core.data.CatchDataContatiner"/>
     <classEntry path="bitrise.core.data.MainData"/>
     <classEntry path="bitrise.core.tools.Invalidator"/>
+    <classEntry path="bitrise.core.data.value.IValueData"/>
+    <classEntry path="bitrise.core.data.value.IntegerData"/>
+    <classEntry path="bitrise.core.data.value.UIntegerData"/>
+    <classEntry path="bitrise.core.utils.GeomUtils"/>
   </includeClasses>
   <includeResources/>
   <namespaceManifests/>

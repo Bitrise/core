@@ -1,0 +1,10 @@
+*.bak
+*.old
+*.swp
+*.tmp
+.DS_Store
+bin/
+bin-debug/
+bin-release/
+.metadata/
+.settings/
